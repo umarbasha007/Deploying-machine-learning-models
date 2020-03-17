@@ -85,3 +85,28 @@ Step by step process from end to end machine learning model deployment to produc
 
 ## 13. Common Issues Found During Deployment
 - Summary of problems encountered during model deployment and how to resolve them
+
+
+# Knowledge Requirement
+## 1. Machine Learning
+- Feature Engineering
+- Feature Selection
+- Linear and Logistic regression
+- Random Forest Trees
+- Gradient Boosted Trees (xgb)
+- Model Diagnostics : ROC-AUC, mse
+
+## 2. Python Programming
+- Python 3.6
+- Numpy 
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Jupyter Notebook
+
+## 3. Data competition Websites
+- For datasets : www.kaggle.com
+
+## 4. Environments, git
+- Python environments
+- Git for version control
